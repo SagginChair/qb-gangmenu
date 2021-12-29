@@ -9,5 +9,6 @@ Config.Gangs = {
     ['triads'] = vector3(0, 0, 0),
     ['gloryboys'] = vector3(-9.34, -1441.42, 31.1),
     ['mso'] = vector3(-9.34, -1441.42, 31.1),
-    ['jamesranch'] = vector3(1391.4, 1165.26, 114.34)
+    ['jamesranch'] = vector3(1391.4, 1165.26, 114.34),
+    ['speedsociety'] = vector3(1391.4, 1165.26, 114.34)
 }
